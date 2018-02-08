@@ -1,0 +1,74 @@
+body {
+    background: url(/img/dark-triangles.png);
+    color: white;
+}
+main {
+    text-align: center;
+    
+}
+h1 {
+    font-size: 4em;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+h2 {
+    font-size: 2em;
+    font-family: "Montserrat";
+}
+nav{
+    text-align: center;
+}
+.navBar {
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.5em;
+    font-family: "Montserrat";
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+footer{
+    position:relative; 
+    text-align:center;
+    color:#999;
+}
+img {
+    width: 500px;
+    padding-bottom: 50px;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: #00eeff;
+}
+p {
+    font-family: "Montserrat";
+    font-size: 1em;
+    text-align: left;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+}
+iframe {
+    clear: both;
+}
+
+.gifLink, #home {
+    color: white;
+    text-decoration: none;
+    font-family: "Montserrat";
+    font-size: 1em;
+}
+.gifLink:hover {
+    border-bottom: 2px white solid;
+    font-size: 1.5em;
+    transition: .3s;
+}
+#home:hover {
+    border-bottom: 2px white solid;
+}
+.gif{
+    float: left;
+    padding-right: 50px;
+}
